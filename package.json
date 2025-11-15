@@ -1,0 +1,16 @@
+{
+  "name": "levin-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord MODERATION & FUN",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.24.2",
+    "dotenv": "^16.3.1"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
